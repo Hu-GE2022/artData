@@ -18,8 +18,6 @@
 
 ## 장소별 클러스터링
 
-- 범죄가 가장 많이 일어나는 장소를 선정해 부산진구의 해당 장소 데이터를 수집
-
 <범죄 빈도가 높은 장소 5가지 : 아파트, 숙박업소, 목욕탕, 유흥주점, 주차장>
 
   - 아파트 위치 정보 출처 : https://www.data.go.kr/data/15007226/fileData.do
@@ -27,6 +25,8 @@
   - 목욕탕 위치 정보 출처: https://www.data.go.kr/data/15025545/fileData.do 
   - 유흥주점 위치 정보 출처: https://data.busan.go.kr/dataSet/detail.nm?publicdatapk=15025547&contentId=10
   - 주차장 위치 정보 출처: https://data.busan.go.kr/dataSet/detail.nm?publicdatapk=15004683&contentId=10
+
+- 범죄가 가장 많이 일어나는 장소를 선정해 부산진구의 해당 장소 데이터를 수집
 
 - 데이터 전처리
   - null값 해결 및 컬럼명 통일
