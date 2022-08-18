@@ -28,9 +28,9 @@
   
 - 목욕탕 위치 정보 출처: https://www.data.go.kr/data/15025545/fileData.do 
   
-- 유흥주점 위치 정보 출처:
+- 유흥주점 위치 정보 출처: https://data.busan.go.kr/dataSet/detail.nm?publicdatapk=15025547&contentId=10
   
-- 주차장 위치 정보 출처:
+- 주차장 위치 정보 출처: https://data.busan.go.kr/dataSet/detail.nm?publicdatapk=15004683&contentId=10
 
 
 
