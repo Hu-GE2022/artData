@@ -2,7 +2,7 @@
 
 ## 부산 관할구별 5대 범죄 시각화
 
-출처 : 부산시 관서별 5대 범죄 발생 현황 https://www.data.go.kr/data/15036510/fileData.do#layer_data_infomation
+데이터 출처 : 부산시 관서별 5대 범죄 발생 현황 https://www.data.go.kr/data/15036510/fileData.do#layer_data_infomation
 
 - 데이터 전처리
   - 2018~2021년도 부산시 5대범죄 데이터를 통합
@@ -16,16 +16,25 @@
   ![image](https://user-images.githubusercontent.com/108312150/185886770-2657d372-d311-4d82-82cb-2671cc225a7c.png)
 
 ## 인구 만 명 당 5대 범죄 시각화
+
+데이터 출처: ?
+
 - 행정구역별 인구 수 데이터를 이용해, 행정구역별 인구 만 명 당 5대 범죄 시각화함
 ![image](https://user-images.githubusercontent.com/108312150/185887032-02efe7d0-6770-4c10-b2cb-4c4c3d410878.png)
 ![image](https://user-images.githubusercontent.com/108312150/185887067-e8d32e1e-7bf0-4c37-b9ea-c5b02876c81d.png)
 
 ## 장소별 시각화
+
+데이터 출처 : https://www.data.go.kr/data/3074463/fileData.do
+
 - 장소별 범죄 건수 데이터 조회 후 시각화
   - 범죄 건수가 가장 높은 장소 5개 선정(아파트, 숙박업소, 목욕탕, 유흥업소, 주차장)
 ![image](https://user-images.githubusercontent.com/108312150/185886119-0c58b3c9-efd2-41cd-87a6-9c18a3804c4b.png)
 
 ## 시간 및 요일별 시각화
+
+데이터 출처 : https://www.data.go.kr/data/3074459/fileData.do
+
 - 요일별 범죄 건수 데이터 조회 후 시각화
   - boxplot을 이용해 범죄 건수가 가장 많은 요일 선정
   ![image](https://user-images.githubusercontent.com/108312150/185885872-c56c30b9-c11f-44eb-900a-e241f199db3b.png)
