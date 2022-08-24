@@ -2,9 +2,9 @@
 
 ## 부산 관할구별 5대 범죄 시각화
 
-데이터 출처 : 부산시 관서별 5대 범죄 발생 현황 https://www.data.go.kr/data/15036510/fileData.do#layer_data_infomation
-
 - 목적 : 코로나가 범죄 발생에 영향을 주었는가를 확인하기 위해 '20년도 전 후로 범죄 발생 건수의 변화를 그래프로 확인하는 것
+
+데이터 출처 : 부산시 관서별 5대 범죄 발생 현황 https://www.data.go.kr/data/15036510/fileData.do#layer_data_infomation
 
 - 데이터 전처리
   - 2018~2021년도 부산시 5대범죄 데이터를 통합
