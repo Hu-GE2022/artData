@@ -19,7 +19,7 @@
 
 ## 인구 만 명 당 5대 범죄 시각화
 
-데이터 출처: ?
+데이터 출처: https://kosis.kr/statHtml/statHtml.do?orgId=202&tblId=DT_202N_B4&conn_path=I2
 
 - 목적 : 단순히 인구가 밀집되어 있는 지역구에서 범죄율이 높은 것인지 확인하기 위함.
 
